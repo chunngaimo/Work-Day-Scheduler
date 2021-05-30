@@ -1,4 +1,4 @@
-# Work Day Scheduler Starter Code
+# Work Day Scheduler
 1.A simple calender app for scheduling your work day
 
 2.https://chunngaimo.github.io/work-day-scheduler/
